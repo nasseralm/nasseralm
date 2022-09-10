@@ -1,6 +1,5 @@
 ### Oi, 👋 eu sou o Nasser
 
-- 📚 I’m currently learning Full Stack Web Development @ Trybe  <img height=20px src="https://user-images.githubusercontent.com/80926182/128214271-6a999341-a520-4951-9981-a61e85c47c55.png"/>
 
 
 <div> 
